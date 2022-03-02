@@ -1,5 +1,8 @@
 ### Hi I'm Rider!!
 
+*Software Engineer @ imaginary i*
+
+
 ```javascript
 const rider = {
   pronouns: "he" | "him",
