@@ -2,7 +2,7 @@
 
 *Software Engineer @ imaginary i*
 <br>
- *Father First, Nerd Second
+ Father First, Nerd Second
 
 <br>
 
