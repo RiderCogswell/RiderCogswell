@@ -1,8 +1,7 @@
 ### Hi I'm Rider!!
 
-*Software Engineer @ imaginary i*
+*Software Engineer @ imaginary i && Father First, Nerd Second*
 <br>
-  -Father First, Nerd Second
 
 <br>
 
