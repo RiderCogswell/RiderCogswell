@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/MBU1IKPY441Q4/giphy.gif) ![](https://media.giphy.com/media/nZ8HKcnfNWCOI/giphy.gif)
-
 ### Hi I'm Rider!!                                                  
 
 *Software Engineer @ imaginary i  ||  ['Father First', 'Nerd Second']*
