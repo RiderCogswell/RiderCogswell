@@ -1,6 +1,6 @@
 ### Hi I'm Rider!!
 
-```
+```javascript
 const rider = {
   pronouns: "he" | "him",
   code: [JavaScript, Java, Python, HTML, CSS],
