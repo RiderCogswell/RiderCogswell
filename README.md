@@ -1,6 +1,6 @@
 ### Hi I'm Rider!!
 
-*Software Engineer @ imaginary i || ['Father First', 'Nerd Second']*
+*Software Engineer @ imaginary i | ['Father First', 'Nerd Second']*
 <br>
 
 <br>
