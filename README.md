@@ -3,9 +3,11 @@
 *Software Engineer @ imaginary i*
 
 <br>
-Father First, Nerd Second
-<br>
 
+Father First, Nerd Second
+
+<br>
+<br>
 ```javascript
 const rider = {
   pronouns: "he" | "him",
