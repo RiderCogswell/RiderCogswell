@@ -5,7 +5,6 @@
 <br>
 
 Father First, Nerd Second
-
 <br>
 
 ```javascript
