@@ -1,6 +1,6 @@
 ### Hi I'm Rider!!                                                  
 
-##```ruby
+```ruby
 Software Engineer  ||  ['Father First', 'Nerd Second']
 ```
 <br>
