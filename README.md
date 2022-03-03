@@ -1,5 +1,5 @@
 ### Hi I'm Rider!!                                                  
-```java
+```ruby
 Software Engineer @ imaginary i  ||  ['Father First', 'Nerd Second']
 ```
 <br>
