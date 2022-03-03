@@ -1,7 +1,6 @@
 ### Hi I'm Rider!!                                                  
-```ruby
+```python
 Software Engineer @ imaginary i  ||  ['Father First', 'Nerd Second']
-<br>
 ```
 <br>
 
