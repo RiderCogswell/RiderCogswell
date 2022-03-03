@@ -1,6 +1,6 @@
 ### Hi I'm Rider!!                                                  
 ```ruby
-Software Engineer @ imaginary i  ||  ['Father First', 'Nerd Second']
+Software Engineer  ||  ['Father First', 'Nerd Second']
 ```
 <br>
 
