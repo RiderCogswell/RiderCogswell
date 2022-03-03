@@ -10,5 +10,5 @@
                           pronouns: "he" | "him",
                           code: [JavaScript, Java, Python, HTML, CSS],
                           tools: [React, MongoDB, Node, Docker, Express.js,
-                                   OOP , TDD, jQuery, SQL, MySQL, REST-APIs]
+                                   OOP , TDD, Redux, SQL, MySQL, REST-APIs]
 ```
