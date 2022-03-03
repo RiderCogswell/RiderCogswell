@@ -9,7 +9,6 @@
             const rider = {
               pronouns: "he" | "him",
               code: [JavaScript, Java, Python, HTML, CSS],
-              tools: [React, MongoDB, Node, Docker, Server-Side API's, 
-                  jQuery, SQL, MySQL, REST-APIs, OOP, TDD, Express.js]
+              tools: [React, MongoDB, Node, Docker, Server-Side API's, jQuery, SQL, MySQL, REST-APIs, OOP, TDD, Express.js]
               
 ```
