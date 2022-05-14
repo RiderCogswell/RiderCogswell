@@ -11,6 +11,7 @@
                           code: [JavaScript, Rust, Python, Kotlin, HTML, CSS],
                           tools: [React, MongoDB, Node.js, GraphQL, Express,
                                   Vite, TDD, Redux, NoSQL, MySQL, REST-APIs,
-                                  OOP, Docker, WebPack, Tauri, Nuxt, Angular]
+                                  OOP, Docker, WebPack, Tauri, Nuxt, Angular,
+                                  Git, PWA, Unix]
                                   };
 ```
