@@ -9,8 +9,8 @@
                         const rider = {
                           pronouns: "he" | "him",
                           code: [JavaScript, Rust, Python, Kotlin, HTML, CSS],
-                          tools: [React, MongoDB, Node.js, Docker, Express.js,
-                                   OOP, TDD, Redux, NoSQL, MySQL, REST-APIs,
-                                   GraphQL, WebPack, Tauri, Nuxt, Angular]
-                                   }
+                          tools: [React, MongoDB, Node.js, GraphQL, Express,
+                                  Vite, TDD, Redux, NoSQL, MySQL, REST-APIs,
+                                  OOP, Docker, WebPack, Tauri, Nuxt, Angular]
+                                  };
 ```
