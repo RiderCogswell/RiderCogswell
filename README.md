@@ -5,7 +5,7 @@
 ```
 <br>
 
-```typescript
+```javascript
                         const rider = {
                           pronouns: "he" | "him",
                           code: [TypeScript/JS, Go, Rust, Python, AWS, HTML/CSS],
