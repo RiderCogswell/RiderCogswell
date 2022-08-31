@@ -1,6 +1,6 @@
 ### Hi I'm Rider!!                                                  
 
-```golang
+```ruby
             Software Engineer  ||  ['Father First', 'Nerd Second']  ||  SFSU Grad & UC Davis Certified
 ```
 <br>
