@@ -8,7 +8,7 @@
 ```javascript
                         const rider = {
                           pronouns: "he" | "him",
-                          code: [TypeScript/JS, Go, Rust, Python, AWS, HTML/CSS],
+                          code: [TypeScript/JS, Go, Python, Rust, AWS, HTML/CSS],
                           tools: [React, MongoDB, Node.js, GraphQL, Express,
                                   Vite, TDD, Redux, NoSQL, MySQL, REST-APIs,
                                   Next, Docker, WebPack, Gin, Iris, Angular,
