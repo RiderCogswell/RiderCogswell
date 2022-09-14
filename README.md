@@ -1,4 +1,4 @@
-### Hi I'm Rider!!                                                  
+### Hi, I'm Rider!!                                                  
 
 ```ruby
             Software Engineer  ||  ['Father First', 'Nerd Second']  ||  SFSU Grad & UC Davis Certified
