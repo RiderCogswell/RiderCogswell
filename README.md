@@ -12,6 +12,6 @@
                           tools: [React, MongoDB, Node.js, GraphQL, Express,
                                   Flask, TDD, Redux, NoSQL, MySQL, REST-APIs,
                                   Next, Docker, WebPack, Gin, Iris, Django,
-                                  OOP/FP, Git, PWA, Unix, Astro, Fiber, Bun]
+                                  OOP/FP, Git, PWA, Unix, Astro, PyTorch, Bun]
                                   };
 ```
