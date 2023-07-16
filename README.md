@@ -1,7 +1,7 @@
 ### Hi, I'm Rider!!                                                  
 
 ```ruby
-  Software Engineer @ Bayer  ||  ['Father First', 'Nerd Second']  ||  SFSU Grad & UC Davis Certified
+Software Engineer @ Bayer  ||  ['Father First', 'Nerd Second']  ||  SFSU Grad & UC Davis Certified
 ```
 <br>
 
