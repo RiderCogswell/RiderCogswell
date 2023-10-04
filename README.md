@@ -6,7 +6,7 @@ Software Engineer @ Bayer  ||  ['Father First', 'Nerd Second']  ||  SFSU Grad & 
 <br>
 
 ```javascript
-                        const rider: programmer = {
+                        const rider: Programmer = {
                           pronouns: "he" | "him",
                           code: [TypeScript/JS, Go, Python, Rust, AWS, HTML/CSS],
                           tools: [React, MongoDB, Node.js, GraphQL, Express,
